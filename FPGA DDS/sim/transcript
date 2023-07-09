@@ -1,0 +1,137 @@
+# Reading D:/Learn/Modelsim/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# OpenFile C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/wave_ctrl_fre_pha_data_ctrl.mpf
+# Loading project wave_ctrl_fre_pha_data_ctrl
+# Compile of wave_ctrl_fre_pha_data_ctrl.v was successful.
+# Compile of fre_pha_data_ctrl.v was successful.
+# Compile of tb_wave_ctrl_fre_pha_data_ctrl.v was successful.
+# Compile of wave_ctrl.v was successful.
+# Compile of div_64_64.v was successful.
+# Compile of saw_wave_rom_8x4096.v was successful.
+# Compile of sin_wave_rom_8x4096.v was successful.
+# Compile of squ_wave_rom_8x4096.v was successful.
+# Compile of tri_wave_rom_8x4096.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui -novopt work.tb_wave_ctrl_fre_pha_data_ctrl
+# vsim -gui C:\Users\forest\Desktop\Quartus_prj\FPGA_Homework\CurriculumDesign\sim\wave_ctrl_fre_pha_data_ctrl.mpf 
+# Start time: 19:55:37 on Dec 14,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.tb_wave_ctrl_fre_pha_data_ctrl
+# Loading work.tb_wave_ctrl_fre_pha_data_ctrl
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.wave_ctrl_fre_pha_data_ctrl
+# Loading work.wave_ctrl_fre_pha_data_ctrl
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.fre_pha_data_ctrl
+# Loading work.fre_pha_data_ctrl
+# Loading work.div_64_64_inst
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.div_64_64
+# Loading work.div_64_64
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v(56): Instantiation of 'lpm_divide' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_fre_pha_data_ctrl/u_div_64_64_inst1/div_64_64_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v(56): Instantiation of 'lpm_divide' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_fre_pha_data_ctrl/u_div_64_64_inst/div_64_64_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.wave_ctrl
+# Loading work.wave_ctrl
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.sin_wave_rom_8x4096
+# Loading work.sin_wave_rom_8x4096
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/sin_wave_rom_8x4096_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.squ_wave_rom_8x4096
+# Loading work.squ_wave_rom_8x4096
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/squ_wave_rom_8x4096_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.tri_wave_rom_8x4096
+# Loading work.tri_wave_rom_8x4096
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/tri_wave_rom_8x4096_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# Refreshing C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work.saw_wave_rom_8x4096
+# Loading work.saw_wave_rom_8x4096
+# ** Error: (vsim-3033) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/saw_wave_rom_8x4096_inst File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+#         Searched libraries:
+#             C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/work
+# Error loading design
+vsim -gui -novopt -L altera_mf work.tb_wave_ctrl_fre_pha_data_ctrl
+# vsim 
+# Start time: 19:55:54 on Dec 14,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.tb_wave_ctrl_fre_pha_data_ctrl
+# Loading work.wave_ctrl_fre_pha_data_ctrl
+# Loading work.fre_pha_data_ctrl
+# Loading work.div_64_64_inst
+# Loading work.div_64_64
+# Loading altera_mf.lpm_divide
+# Loading altera_mf.LPM_HINT_EVALUATION
+# Loading work.wave_ctrl
+# Loading work.sin_wave_rom_8x4096
+# Loading altera_mf.altsyncram
+# Loading work.squ_wave_rom_8x4096
+# Loading work.tri_wave_rom_8x4096
+# Loading work.saw_wave_rom_8x4096
+# ** Warning: (vsim-3015) C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v(45): [PCDPC] - Port size (16) does not match connection size (128) for port 'data_out'. The port definition is at: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v(22).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl File: C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+add wave -position insertpoint sim:/tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/*
+run
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "../../../matlab_prj/sin_wave_8x4096.mif" for reading.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/sin_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ERROR: cannot read ../../../matlab_prj/sin_wave_8x4096.mif.
+# ** Warning: (vsim-7) Failed to open readmem file "../../../matlab_prj/sin_wave_8x4096.ver" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/sin_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "../../../matlab_prj/squ_wave_8x4096.mif" for reading.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/squ_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ERROR: cannot read ../../../matlab_prj/squ_wave_8x4096.mif.
+# ** Warning: (vsim-7) Failed to open readmem file "../../../matlab_prj/squ_wave_8x4096.ver" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/squ_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "../../../matlab_prj/tri_wave_8x4096.mif" for reading.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/tri_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ERROR: cannot read ../../../matlab_prj/tri_wave_8x4096.mif.
+# ** Warning: (vsim-7) Failed to open readmem file "../../../matlab_prj/tri_wave_8x4096.ver" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/tri_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "../../../matlab_prj/saw_wave_8x4096.mif" for reading.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/saw_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+# ERROR: cannot read ../../../matlab_prj/saw_wave_8x4096.mif.
+# ** Warning: (vsim-7) Failed to open readmem file "../../../matlab_prj/saw_wave_8x4096.ver" in read mode.
+# 
+# No such file or directory. (errno = ENOENT)    : nofile(-1)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl_fre_pha_data_ctrl/u_wave_ctrl/saw_wave_rom_8x4096_inst/altsyncram_component/m_default/altsyncram_inst
+run
+# End time: 19:58:14 on Dec 14,2022, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 10

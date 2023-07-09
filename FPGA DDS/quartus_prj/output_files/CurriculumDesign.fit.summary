@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 29 17:33:46 2022
+Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+Revision Name : CurriculumDesign
+Top-level Entity Name : wave_ctrl_fre_pha_data_ctrl
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 6,665 / 10,320 ( 65 % )
+    Total combinational functions : 6,653 / 10,320 ( 64 % )
+    Dedicated logic registers : 160 / 10,320 ( 2 % )
+Total registers : 160
+Total pins : 68 / 180 ( 38 % )
+Total virtual pins : 0
+Total memory bits : 131,072 / 423,936 ( 31 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

@@ -1,0 +1,22 @@
+C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/div_64_64.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/div_64_64.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module div_64_64
+
+Top level modules:
+	div_64_64
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module div_64_64_inst
+
+Top level modules:
+	div_64_64_inst
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_div_64_64_inst
+
+Top level modules:
+	tb_div_64_64_inst
+
+} {} {}}

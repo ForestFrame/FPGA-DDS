@@ -1,0 +1,248 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Learn/Modelsim/win64
+T_opt
+!s110 1669639772
+VHj?;=>9zEMh0RS9_1Q>kk3
+04 17 4 work tb_div_64_64_inst fast 0
+=1-9cfce89ee5f3-6384ae5a-2c8-674
+o-quiet -auto_acc_if_foreign -work work -L D:/Learn/Modelsim/altera_lib/altera_mf
+n@_opt
+OL;O;10.4;61
+R0
+vdiv_64_64
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 W^6QHV0:LC1Xc]];zd<_Q2
+IJMllo22VY[;Y4Jk]mgKBi0
+Z2 dC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim
+w1669638695
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+Z3 L0 40
+Z4 OL;L;10.4;61
+!s108 1671018926.401000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdiv_64_64_inst
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kB2X77BBS=6?N1a5>lXa12
+IhgN4ZV`OC6cTUX4W^zoGz0
+R2
+w1669638838
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v
+L0 1
+R4
+!s108 1669711006.424000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v|
+!i113 0
+R5
+vfre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 D87?o;ZNg;zK@;37S<blQ0
+I3RDG0Y<1_o]Z;0Q1n_3L50
+R2
+w1669710693
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v
+L0 1
+R4
+!s108 1671018926.214000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v|
+!i113 0
+R5
+vsaw_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 HjX8dNa6gTmRSPB3]?6540
+I6e^90jjfcVN=R5HiedM?D1
+R2
+w1669601684
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+R3
+R4
+!s108 1671018926.480000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v|
+!i113 0
+R5
+vsin_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 o3M7NLMMjYkKm7cYil38d1
+IVz1@en2L37XYXHF6TGJ3e1
+R2
+w1669556578
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+R3
+R4
+!s108 1671018926.534000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v|
+!i113 0
+R5
+vsqu_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 B^3<AVi?:]D36ZW41H1kP1
+IV9k9FYJPkmi1T7j994lbd3
+R2
+w1669601660
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+R3
+R4
+!s108 1671018926.621000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v|
+!i113 0
+R5
+vtb_div_64_64_inst
+!s110 1669653504
+!i10b 1
+!s100 <LXV2GS@XZNB]gKbS@nOe1
+IW16^Tk]?JL]b9_F2n32W61
+R1
+R2
+w1669639752
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1669653504.101000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v|
+!s90 -reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/sim/tb_div_64_64_inst.v|
+!i113 0
+R5
+vtb_fre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ORI<Rg9@]HEnM<AVjaU840
+I65?lnNcOEKf07YoBjToCP3
+R2
+w1669711003
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_fre_pha_data_ctrl.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_fre_pha_data_ctrl.v
+L0 3
+R4
+!s108 1669711006.310000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_fre_pha_data_ctrl.v|
+!i113 0
+R5
+vtb_wave_ctrl_fre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `<=GBJMCkF44cAiTb85cP3
+I5iL3LYVjIP=EZ;8FO6Bco3
+R2
+w1669715308
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v
+L0 3
+R4
+!s108 1671018926.269000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v|
+!i113 0
+R5
+vtri_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PNS^`PD7?BFNkSjLAXD9c3
+ISPTU==hdFk1Nh7mBK4JZa3
+R2
+w1669601705
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+R3
+R4
+!s108 1671018926.701000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v|
+!i113 0
+R5
+vwave_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 a[PdVF9:6`96GJfNmRk[I3
+IS601X4eVdeohaM=@b@=P81
+R2
+w1670729064
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v
+L0 1
+R4
+!s108 1671018926.324000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v|
+!i113 0
+R5
+vwave_ctrl_fre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 chhkd;fn7S>>W=I7DHnmL0
+IXZ7>cEDXeLA5Ohe0Jh=[z0
+R2
+w1669712830
+8C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+FC:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+L0 1
+R4
+!s108 1671018926.157000
+!s107 C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v|
+!i113 0
+R5

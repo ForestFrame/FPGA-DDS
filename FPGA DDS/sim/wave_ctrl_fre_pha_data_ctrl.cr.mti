@@ -1,0 +1,64 @@
+C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module wave_ctrl_fre_pha_data_ctrl
+
+Top level modules:
+	wave_ctrl_fre_pha_data_ctrl
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/tb_wave_ctrl_fre_pha_data_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_wave_ctrl_fre_pha_data_ctrl
+
+Top level modules:
+	tb_wave_ctrl_fre_pha_data_ctrl
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sin_wave_rom_8x4096
+
+Top level modules:
+	sin_wave_rom_8x4096
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module div_64_64
+
+Top level modules:
+	div_64_64
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fre_pha_data_ctrl
+
+Top level modules:
+	fre_pha_data_ctrl
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module wave_ctrl
+
+Top level modules:
+	wave_ctrl
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tri_wave_rom_8x4096
+
+Top level modules:
+	tri_wave_rom_8x4096
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module squ_wave_rom_8x4096
+
+Top level modules:
+	squ_wave_rom_8x4096
+
+} {} {}} C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v {1 {vlog -work work -vopt -stats=none C:/Users/forest/Desktop/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module saw_wave_rom_8x4096
+
+Top level modules:
+	saw_wave_rom_8x4096
+
+} {} {}}

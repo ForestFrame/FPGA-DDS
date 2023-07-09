@@ -1,0 +1,229 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "data_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "clk[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wave_sel[3]",
+					"strict" : false
+				},
+				{
+					"name" : "wave_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rstn[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wave_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wave_sel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_y[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pha_x[0]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[8]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[9]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[7]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[5]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[6]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[0]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_x[2]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[8]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[9]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[7]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[5]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[6]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[0]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_y[2]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[9]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[8]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[7]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[6]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[5]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[4]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[2]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fre_z[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

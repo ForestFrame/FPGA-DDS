@@ -1,0 +1,219 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/simulation/modelsim
+T_opt
+!s110 1685950193
+VXR1hbLDZN;gmNQdb6=ngJ1
+04 30 4 work tb_wave_ctrl_fre_pha_data_ctrl fast 0
+=1-2c16dba53bd5-647d8eeb-321-51e4
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+R0
+vdiv_64_64
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 W^6QHV0:LC1Xc]];zd<_Q2
+IIi<;_^W2DBgiA^LoMTOWL2
+R0
+w1669638695
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v
+Z2 L0 40
+Z3 OL;L;10.4;61
+!s108 1685950184.083000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 !s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdiv_64_64_inst
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kB2X77BBS=6?N1a5>lXa12
+I]Gf8;DhMJKIRVfa1EloIQ0
+R0
+w1669638838
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v
+L0 1
+R3
+!s108 1685950182.679000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/div_64_64/div_64_64_inst.v|
+!i113 0
+R4
+R5
+vfre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Djn[4zkzjPQSDPTYLWbmN2
+IJ[gngijB1N85jRDTMHDHK3
+R0
+w1671072875
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v
+L0 1
+R3
+!s108 1685950183.017000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/fre_pha_data_ctrl.v|
+!i113 0
+R4
+Z6 !s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsaw_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 HjX8dNa6gTmRSPB3]?6540
+IlFeU2=A_U6gI>zcbK?ioW2
+R0
+w1669601684
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v
+R2
+R3
+!s108 1685950183.549000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096/saw_wave_rom_8x4096.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/saw_wave_rom_8x4096 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsin_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 o3M7NLMMjYkKm7cYil38d1
+IgHkzOLC6EjDL0h?Pk;;@Y3
+R0
+w1669556578
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v
+R2
+R3
+!s108 1685950183.338000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096/sin_wave_rom_8x4096.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/sin_wave_rom_8x4096 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsqu_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 B^3<AVi?:]D36ZW41H1kP1
+I0zJM@]QDm2Gc9Y6CcegKF1
+R0
+w1669601660
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v
+R2
+R3
+!s108 1685950183.754000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096/squ_wave_rom_8x4096.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/squ_wave_rom_8x4096 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_wave_ctrl_fre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 _c4:1bD2U@QBmYf_E>4]`1
+I[1eMbN=9U?>?m;h@G5_VV3
+R0
+w1671074954
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl/tb_wave_ctrl_fre_pha_data_ctrl.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl/tb_wave_ctrl_fre_pha_data_ctrl.v
+L0 3
+R3
+!s108 1685950184.238000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl/tb_wave_ctrl_fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl/tb_wave_ctrl_fre_pha_data_ctrl.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/quartus_prj/../rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtri_wave_rom_8x4096
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PNS^`PD7?BFNkSjLAXD9c3
+I[>]Bo;[IMCN7e8n`JeYjW0
+R0
+w1669601705
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v
+R2
+R3
+!s108 1685950183.930000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096/tri_wave_rom_8x4096.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/ip_core/tri_wave_rom_8x4096 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vwave_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;nP?V`R`9B>iLMZz@5<KH3
+IGJ<TzSgX7:A26FKda0R2_0
+R0
+w1671021396
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v
+L0 1
+R3
+!s108 1685950183.162000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl.v|
+!i113 0
+R4
+R6
+vwave_ctrl_fre_pha_data_ctrl
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 chhkd;fn7S>>W=I7DHnmL0
+IQAU5^[Y93PkZ0Uofaa^=>2
+R0
+w1669712830
+8D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+FD:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v
+L0 1
+R3
+!s108 1685950182.869000
+!s107 D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl|D:/Learn/All_Prj/Quartus_prj/FPGA_Homework/CurriculumDesign/rtl/wave_ctrl_fre_pha_data_ctrl.v|
+!i113 0
+R4
+R6
